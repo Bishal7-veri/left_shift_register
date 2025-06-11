@@ -1,6 +1,6 @@
 // Code your testbench here
 // or browse Examples
-module tb_right_shift_register;
+module tb_left_shift_register;
 
 reg clk, rst, load, shift_en;
 reg [3:0] d;
